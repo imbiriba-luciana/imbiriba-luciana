@@ -1,6 +1,6 @@
 ### <h2>𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎!</h2> 🙋‍♀️
 
-- 👋 I'm Luciana!𝐋𝐮𝐜𝐢𝐚𝐧𝐚 𝙸'𝚖 𝙻𝚞𝚌𝚒𝚊𝚗𝚊!
+- 👋 I'm Luciana!𝐋𝐮𝐜𝐢𝐚𝐧𝐚 𝙸'𝚖 𝙻𝚞𝚌𝚒𝚊𝚗𝚊! 𝗜'𝗺 𝗟𝘂𝗰𝗶𝗮𝗻𝗮!
 - 🔭 I’m interested to pursue a career in STEM;
 - 🌱 I’m currently learning: Logic Programming, Javascript, HTML, R and Adobe Illustrator;
 - 👯 I’m looking to collaborate on Front End projects and Data Science using R;
