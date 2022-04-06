@@ -1,4 +1,4 @@
-### Hello there 🙋‍♀️
+### Hello there 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎! ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖! 🙋‍♀️
 
 - 👋 I'm Luciana!𝐋𝐮𝐜𝐢𝐚𝐧𝐚
 - 🔭 I’m interested to pursue a career in STEM;
