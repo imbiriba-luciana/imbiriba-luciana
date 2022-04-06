@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/imbiriba-luciana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Luciimbiriba" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:imbiriba.luciana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/801462596560748574/961200488014045204/Lu-pic.png"> 
+  <img align="right" height="140" style="border-radius:45px;" src="https://cdn.discordapp.com/attachments/801462596560748574/961200488014045204/Lu-pic.png"> 
 </div>
 
 
