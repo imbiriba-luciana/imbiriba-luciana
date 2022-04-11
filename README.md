@@ -2,7 +2,7 @@
 
 - 👋 I’m Luciana!
 - 🔭 I’m interested to pursue a career in STEM;
-- 🌱 I’m currently learning: Logic Programming, Javascript, HTML, R and Adobe Illustrator;
+- 🌱 I’m currently learning: Logic Programming, Javascript, HTML, CSS, R and Adobe Illustrator;
 - 👯 I’m looking to collaborate on Front-End projects and Data Science using R;
 - 📪 How to reach me>>>
 
