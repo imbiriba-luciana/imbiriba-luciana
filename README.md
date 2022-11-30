@@ -2,8 +2,8 @@
 
 - 👋 I’m Luciana!
 - 🔭 I’m interested to pursue a career in STEM;
-- 🌱 I’m currently learning: Logic Programming, Javascript, HTML, CSS, R and Adobe Illustrator;
-- 👯 I’m looking to collaborate on Front-End projects and Data Analysis using R;
+- 🌱 I’m currently diving into DS field;
+- 👯 I’m looking to bring here nice project content in the near future;
 - 📪 How to reach me>>>
 
 <div>
