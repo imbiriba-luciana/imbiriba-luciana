@@ -3,7 +3,6 @@
 - 👋 I’m **Luciana**!
 - 🔭 I’m interested to pursue a **career in STEM**;
 - 🌱 I’m currently diving into **Clinical Data Management**;
-- 👯 I’m looking for an **internship**;
 - 📪 How to reach me>>>
 
 <div>
